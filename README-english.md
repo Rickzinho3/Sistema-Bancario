@@ -9,13 +9,8 @@
 </div>
 <hr/>
 
-## If you don't have the libraries, install them:
-```bash
-pip install os
-```
-```bash
-pip install time
-```
+## Install the `art` library
+
 ```bash
 pip install art 
 ```
