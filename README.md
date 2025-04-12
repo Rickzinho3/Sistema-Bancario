@@ -38,7 +38,7 @@ def root():
 if __name__ == "__main__":
     root()
 ```
-> **Nota:** Lembre-se de adicionar o trecho `if __name__ == "__main__":` na última linha do seu código.
+> **Nota:** Lembre-se de adicionar o trecho `if __name__ == "__main__":` ao final do código.
 
 ## **Informações**
 Futuramente será usada uma nova biblioteca no código, na qual será a biblioteca **TQDM**.
